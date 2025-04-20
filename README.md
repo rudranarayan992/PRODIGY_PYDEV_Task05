@@ -1,6 +1,12 @@
 # PRODIGY_PYDEV_Task05
 Build a Network Packet Sniffer that:  Captures live packets  Extracts and displays:  Source IP  Destination IP  Protocol (TCP/UDP/ICMP/etc.)  Optional: Payload (hex or readable)
 
+⚠️ Ethical Notice
+This tool is developed strictly for educational purposes. Unauthorized packet sniffing is unethical and illegal. Always obtain proper permissions before analyzing any network traffic.
+
+👨‍💻 Author
+Rudra Narayan Swain
+Cyber Security Enthusiast | Python Developer
 
 # 🧪 Network Packet Analyzer
 
@@ -33,6 +39,12 @@ This project is a **Network Packet Analyzer** built using Python and the `scapy`
 ## 📄 How to Run
 
 > ⚠️ Run with administrative/root privileges!
+
+
+👨‍💻 Author
+Rudra Narayan Swain
+Cyber Security Enthusiast | Python Developer
+
 
 ```bash
 # Install requirements
